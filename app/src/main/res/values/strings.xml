@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnSaveInstanceState Ejemplo</string>
+    <string name="main_btnIncrement">Increment</string>
+</resources>
